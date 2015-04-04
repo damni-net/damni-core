@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Std trait
+ * Damni helper std trait
  *
  * @author Evgeny Reykh <evgeny@reykh.com>
  */
 
-trait StdTrait
+trait Damni_Helper_StdTrait
 {
 }
