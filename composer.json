@@ -1,0 +1,12 @@
+{
+    "name": "damni-net/damni-core",
+    "description": "Damni Core",
+    "require": {
+        "monolog/monolog": "~1.11"
+    },
+    "autoload": {
+        "psr-0": {
+            "Damni_": "src/"
+        }
+    }
+}
