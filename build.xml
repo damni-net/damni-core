@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<project name="Damni Core" basedir="." default="build">
+
+    <target name="build">
+    </target>
+</project>
